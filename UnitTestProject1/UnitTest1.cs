@@ -8,7 +8,7 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public static void TestMethod1()
+        public void TestMethod1()
         {
             if (Program.Calculation(10, 5) == 15)
             {

@@ -10,7 +10,7 @@ namespace NunitTests
     public class Test1
     {
         [Test]
-        public static void TestMethod1()
+        public static void TestMethodNunit()
         {
             if (Program.Calculation(10, 5) == 15)
             {
