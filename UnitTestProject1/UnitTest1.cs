@@ -10,7 +10,7 @@ namespace UnitTestProject1
         [TestMethod]
         public void TestMethod1()
         {
-            if (Program.Calculation(10, 5) == 15)
+            if (Program.Calculation(10, 5).Equals(15))
             {
                 //hkjh
             }
