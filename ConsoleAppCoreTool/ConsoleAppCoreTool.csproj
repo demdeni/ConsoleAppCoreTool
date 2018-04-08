@@ -1,6 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+	<UseNETCoreGenerator>true</UseNETCoreGenerator>
 	<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     	<GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
 	<RestoreProjectStyle>PackageReference</RestoreProjectStyle>

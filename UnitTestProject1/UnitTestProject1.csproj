@@ -4,6 +4,7 @@
 	<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     	<GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
 	<RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+	<UseNETCoreGenerator>true</UseNETCoreGenerator>
     <TargetFramework>netstandard2.0</TargetFramework>
 
     <IsPackable>false</IsPackable>
