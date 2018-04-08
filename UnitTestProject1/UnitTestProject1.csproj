@@ -4,7 +4,7 @@
 	<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     	<GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
 	<RestoreProjectStyle>PackageReference</RestoreProjectStyle>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
 
     <IsPackable>false</IsPackable>
   </PropertyGroup>
