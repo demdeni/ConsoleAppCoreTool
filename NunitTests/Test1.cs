@@ -12,7 +12,8 @@ namespace NunitTests
         [Test]
         public static void TestMethodNunit()
         {
-            if (Program.Calculation(10, 5) == 15)
+            var calc = Program.Calculation(10, 5);
+            if (calc == 15)
             {
                 //hkjh
             }
